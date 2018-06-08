@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KotlinWithFirebase</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="title_activity_base">BaseActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_logout">Logout</string>
+    <string name="facebook_app_id">2036042393333363</string>
+</resources>
